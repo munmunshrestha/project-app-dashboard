@@ -17,7 +17,7 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 @RestController
-@CrossOrigin("http://localhost:8081")
+@CrossOrigin("http://localhost:4200")
 public class FileController {
 
 	@Autowired
